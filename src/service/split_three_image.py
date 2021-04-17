@@ -43,7 +43,7 @@ def split_process(input_path, output_path):
 
 if __name__ == '__main__':
     # 图片输入路径
-    input_path = "/Users/minjianxu/ai/cpp/data/5"
+    input_path = "./data/5"
     # 图片输出路径
-    output_path = "/Users/minjianxu/ai/cpp/data/5_out"
+    output_path = "./data/5_out"
     split_process(input_path, output_path)
